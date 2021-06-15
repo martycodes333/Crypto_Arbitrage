@@ -1,4 +1,4 @@
-#Arbitrage Profit Analysis BitStamp V. Coinbase
+# Arbitrage Profit Analysis BitStamp V. Coinbase
 
 ---
 
