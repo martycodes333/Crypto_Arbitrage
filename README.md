@@ -9,9 +9,9 @@ This is a Jupyter Lab via command line interface created code used with the assi
 
 This project uses python 3.7 with the following packages:
 
-* [Pandas](https://github.com/pandas-dev/pandas) - For the command line interface, help page, and entrypoint
+* [Pandas](https://github.com/pandas-dev/pandas) - Pandas is an open-source library that offers easy-to-use data analysis tools for Python.
 
-* [Jupyter Lab](https://github.com/jupyterlab/jupyterlab-git) - For interactive user prompts, dialogs and analysis
+* [Jupyter Lab](https://github.com/jupyterlab/jupyterlab-git) - For interactive analysis prompts and a code as you code structure
 
 
 
